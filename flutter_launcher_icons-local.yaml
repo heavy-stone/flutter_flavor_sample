@@ -1,0 +1,6 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon_local.png"
+  adaptive_icon_background: '#12ff55'
+  adaptive_icon_foreground: "assets/images/icon_prod.png"
